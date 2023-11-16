@@ -1,0 +1,17 @@
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\bin\Debug\net7.0\CurrencyTranslator.exe
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\bin\Debug\net7.0\CurrencyTranslator.deps.json
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\bin\Debug\net7.0\CurrencyTranslator.runtimeconfig.json
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\bin\Debug\net7.0\CurrencyTranslator.dll
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\bin\Debug\net7.0\CurrencyTranslator.pdb
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\obj\Debug\net7.0\CurrencyTranslator.csproj.AssemblyReference.cache
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\obj\Debug\net7.0\CurrencyTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\obj\Debug\net7.0\CurrencyTranslator.AssemblyInfoInputs.cache
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\obj\Debug\net7.0\CurrencyTranslator.AssemblyInfo.cs
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\obj\Debug\net7.0\CurrencyTranslator.csproj.CoreCompileInputs.cache
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\obj\Debug\net7.0\CurrencyTranslator.csproj.CopyComplete
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\obj\Debug\net7.0\CurrencyTranslator.dll
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\obj\Debug\net7.0\refint\CurrencyTranslator.dll
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\obj\Debug\net7.0\CurrencyTranslator.pdb
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\obj\Debug\net7.0\CurrencyTranslator.genruntimeconfig.cache
+C:\Users\JayC\source\repos\CurrencyTranslator\CurrencyTranslator\obj\Debug\net7.0\ref\CurrencyTranslator.dll
